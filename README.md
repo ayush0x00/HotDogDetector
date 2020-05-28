@@ -26,9 +26,3 @@ The necessary rubric my submission satisfies:
   * Linux: gcc / g++ is installed by default on most Linux distros
 * OpenCV >= 4.1
   * The OpenCV 4.1.0 source code can be found [here](https://github.com/opencv/opencv/tree/4.1.0)
-
-## Basic Build Instructions
-
-1. Clone this repo.
-2. Compile: `cmake . && make`
-3. Run it: `./HotDogDetector <your_image.jpg>`.
