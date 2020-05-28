@@ -1,0 +1,3 @@
+/home/cipher/Desktop/hot_dog_detector/build/CMakeFiles/rebuild_cache.dir
+/home/cipher/Desktop/hot_dog_detector/build/CMakeFiles/HotDogDetector.dir
+/home/cipher/Desktop/hot_dog_detector/build/CMakeFiles/edit_cache.dir
